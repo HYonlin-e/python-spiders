@@ -6,7 +6,7 @@
 
 ## 系列目录
 
-- [搜狗微信采集 —— python爬虫系列一]: [https://www.cnblogs.com/hyonline/p/11812977.html](https://www.cnblogs.com/hyonline/p/11812977.html)
+- 搜狗微信采集 —— python爬虫系列一: [https://www.cnblogs.com/hyonline/p/11812977.html](https://www.cnblogs.com/hyonline/p/11812977.html)
 
   
 
